@@ -1,0 +1,9 @@
+Admin : {
+    email = admin@example.com
+    password = 123
+}
+
+Client : {
+    email = yassinerou221@gmail.com
+    password = yassine221
+}
